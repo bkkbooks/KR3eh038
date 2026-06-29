@@ -1,0 +1,237 @@
+canonical_identifier: bkk:krp/KR3eh038/v1
+canonical_location: https://kanripo.org/bkk/KR3eh038/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 風勞臌膈四大證治
+  identifiers:
+    krp: KR3eh038
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh038.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh038_000.yaml, hash: 'sha256:a515ba9aa64289f7867d0f7fc60e88d648ab0ae85b2221bb2a33d499051d97c3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh038_000.markers.yaml, hash: 'sha256:bec8fb4138748eb262de68bf0a4fbaf52d3a32990467c461ffd37705f5051ae8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 286
+  label: 曹家達序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d4.h1s1
+    span:
+    - front
+    - 286
+    - 678
+  label: 瞿簡莊序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d5.h1s1
+    span:
+    - front
+    - 678
+    - 1272
+  label: 承淡安序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d6.h1s1
+    span:
+    - front
+    - 1272
+    - 1862
+  label: 姜文駿序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 398
+  label: 天敘姜公傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d7.h1s1
+    span:
+    - body
+    - 398
+    - 8168
+  label: 中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d8.h1s1
+    span:
+    - body
+    - 8168
+    - 27339
+  label: 虛勞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d8d94
+    span:
+    - body
+    - 24596
+    - 25975
+  label: 附五臟虛損治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d8d95
+    span:
+    - body
+    - 25975
+    - 27339
+  label: 虛勞門要用方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d9.h1s1
+    span:
+    - body
+    - 27339
+    - 39554
+  label: 水腫臌脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d10.h1s1
+    span:
+    - body
+    - 39554
+    - 44001
+  label: 嘔吐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d11.h1s1
+    span:
+    - body
+    - 44001
+    - 49176
+  label: 噎膈反胃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12.h1s1
+    span:
+    - body
+    - 49176
+    - 57350
+  label: 雜病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d2
+    span:
+    - body
+    - 49178
+    - 51069
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d3
+    span:
+    - body
+    - 51069
+    - 52397
+  label: 關格
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d4
+    span:
+    - body
+    - 52397
+    - 53697
+  label: 呃逆
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d5
+    span:
+    - body
+    - 53697
+    - 53872
+  label: 噫氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d6
+    span:
+    - body
+    - 53872
+    - 54122
+  label: 𩞄雜
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d7
+    span:
+    - body
+    - 54122
+    - 56174
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d8
+    span:
+    - body
+    - 56174
+    - 56839
+  label: 夢遺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d9
+    span:
+    - body
+    - 56839
+    - 57350
+  label: 小便癃閉
+  type: section
+  level: 2
+hash: sha256:4f34e208dab85ff979c8e3f3cf59b7f46ef9a0712ed3aa9e2952038ae6b8dc1c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

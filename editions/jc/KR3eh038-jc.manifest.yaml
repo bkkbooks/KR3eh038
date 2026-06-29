@@ -1,0 +1,234 @@
+canonical_identifier: bkk:krp/KR3eh038/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh038/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 風勞臌膈四大證治
+  identifiers:
+    krp: KR3eh038
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh038.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh038_000-jc.yaml, hash: 'sha256:687548a9f9a3cc50a26bd8162c614c3ed5d952cbd4e067425988970a5ea3c0a4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh038_000-jc.markers.yaml, hash: 'sha256:15167bb86c1a638783aa2048fcb1bb37b51791f156125343deefd04349a55b53'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 286
+  label: 曹家達序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d4.h1s1
+    span:
+    - front
+    - 286
+    - 678
+  label: 瞿簡莊序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d5.h1s1
+    span:
+    - front
+    - 678
+    - 1272
+  label: 承淡安序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d6.h1s1
+    span:
+    - front
+    - 1272
+    - 1862
+  label: 姜文駿序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 398
+  label: 天敘姜公傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d7.h1s1
+    span:
+    - body
+    - 398
+    - 8168
+  label: 中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d8.h1s1
+    span:
+    - body
+    - 8168
+    - 27339
+  label: 虛勞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d8d94
+    span:
+    - body
+    - 24596
+    - 25975
+  label: 附五臟虛損治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d8d95
+    span:
+    - body
+    - 25975
+    - 27339
+  label: 虛勞門要用方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d9.h1s1
+    span:
+    - body
+    - 27339
+    - 39554
+  label: 水腫臌脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d10.h1s1
+    span:
+    - body
+    - 39554
+    - 44001
+  label: 嘔吐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d11.h1s1
+    span:
+    - body
+    - 44001
+    - 49176
+  label: 噎膈反胃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12.h1s1
+    span:
+    - body
+    - 49176
+    - 57350
+  label: 雜病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d2
+    span:
+    - body
+    - 49178
+    - 51069
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d3
+    span:
+    - body
+    - 51069
+    - 52397
+  label: 關格
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d4
+    span:
+    - body
+    - 52397
+    - 53697
+  label: 呃逆
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d5
+    span:
+    - body
+    - 53697
+    - 53872
+  label: 噫氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d6
+    span:
+    - body
+    - 53872
+    - 54122
+  label: 𩞄雜
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d7
+    span:
+    - body
+    - 54122
+    - 56174
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d8
+    span:
+    - body
+    - 56174
+    - 56839
+  label: 夢遺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh038_jc_000-d12d9
+    span:
+    - body
+    - 56839
+    - 57350
+  label: 小便癃閉
+  type: section
+  level: 2
+hash: sha256:4178fd306cf0c83eb9925595fa3df5e3e5b2b04892ed26641e4d47551da0b3b8
