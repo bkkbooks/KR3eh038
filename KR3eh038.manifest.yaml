@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh038_000.yaml, hash: 'sha256:a515ba9aa64289f7867d0f7fc60e88d648ab0ae85b2221bb2a33d499051d97c3'}
+  - {seq: 0, filename: KR3eh038_000.yaml, hash: 'sha256:687548a9f9a3cc50a26bd8162c614c3ed5d952cbd4e067425988970a5ea3c0a4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh038_000.markers.yaml, hash: 'sha256:bec8fb4138748eb262de68bf0a4fbaf52d3a32990467c461ffd37705f5051ae8'}
+  - {seq: 0, role: markers, filename: assets/KR3eh038_000.markers.yaml, hash: 'sha256:f418eb629c4c89b057e6b930f58481ce0475c4607290919e9b6aed85a5edf45e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -231,7 +231,4 @@ table_of_contents:
   label: 小便癃閉
   type: section
   level: 2
-hash: sha256:4f34e208dab85ff979c8e3f3cf59b7f46ef9a0712ed3aa9e2952038ae6b8dc1c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5335d3a93f05db42d245a7504549fff6bb569b470ebcb08fbf541e28729bb1e1
